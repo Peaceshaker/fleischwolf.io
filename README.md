@@ -1,32 +1,32 @@
-# Fleischwølf
+# 🥦 Fleischwølf 🍖
 
-Welcome to the official repository for Fleischwølf! 🎶
+🎸 Welcome to the official... uh... pack list for Fleischwølf, i guess! 💼
 
-## About Us
+## About Us 🧛🤡🤠
 
-[Your Band Name] is an independent band embarking on a musical journey to create our first album this summer. With a blend of [describe your music style], we are excited to share our passion for music with the world.
+Fleischwølf is an independent band embarking on a musical journey to create our first album this summer. We are an upcoming swiss Stoner Rock Band influenced by likes of Sleep, The Sword, Elder, Electric Wizard, Truckfighters and more.
 
-## Our Project
+## Our Project 💿
 
-This summer, we are taking on the exciting challenge of recording a short album entirely by ourselves. Stay tuned as we document our progress and share behind-the-scenes insights into our creative process.
+This summer, we are taking on the exciting challenge of recording a short album entirely by ourselves. All Song are written by MFleischwølf. Stay tuned...
 
-## Equipment
+## Equipment 🎸
 
-Curious about the gear behind the sound? Here's a list of equipment we'll be bringing:
+We'll be bringing:
 
 - [Equipment 1]
 - [Equipment 2]
 - [Equipment 3]
 - ...
 
-## Equipment Diagram
+## Equipment Diagram 📋
 
 For a visual representation of our setup, check out the equipment diagram below:
 
 ![Equipment Diagram](link/to/diagram/image)
 
-## Connect with Us
+## Connect with Us 🔗
 
-Stay updated with our latest news and releases by following us on [Twitter](https://twitter.com/yourbandname) and [Instagram](https://instagram.com/yourbandname). Feel free to reach out with any questions or collaborations!
+Stay updated with our latest news and releases by following us on [tiktok](tiktok link, bro). Feel free to reach out!
 
-Happy listening! 🎵
+Groovy! 🎵
