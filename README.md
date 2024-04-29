@@ -1,14 +1,12 @@
 # 🥦 Fleischwølf 🍖
 
+## Equipment Diagram 📋
+
+For a visual representation of our setup, check out the equipment diagram below:
+
+![Equipment Diagram](https://github.com/Peaceshaker/fleischwolf.io/blob/main/fleischwolfsesh.png)
+
 🎸 Welcome to the official... uh... pack list for Fleischwølf, i guess! 💼
-
-## About Us 🧙‍♂️🤡🤠
-
-Fleischwølf is an independent band embarking on a musical journey to make our first record, all by ourselves. We are an upcoming swiss Stoner Rock Band influenced by likes of Sleep, The Sword, Elder, Electric Wizard, Truckfighters and more.
-
-## Our Project 💿
-
-This summer, we are taking on the exciting challenge of recording a short album entirely by ourselves. All Song are written by Fleischwølf. Stay tuned...
 
 ## Equipment 🎸
 
@@ -52,11 +50,13 @@ We'll be bringing:
 - 1x Fussmaschine
 - 4x Drumsticks
 
-## Equipment Diagram 📋
+## About Us 🧙‍♂️🤡🤠
 
-For a visual representation of our setup, check out the equipment diagram below:
+Fleischwølf is an independent band embarking on a musical journey to make our first record, all by ourselves. We are an upcoming swiss Stoner Rock Band influenced by likes of Sleep, The Sword, Elder, Electric Wizard, Truckfighters and more.
 
-![Equipment Diagram](https://github.com/Peaceshaker/fleischwolf.io/blob/main/fleischwolfsesh.png)
+## Our Project 💿
+
+This summer, we are taking on the exciting challenge of recording a short album entirely by ourselves. All Song are written by Fleischwølf. Stay tuned...
 
 ## Connect with Us 🔗
 
