@@ -56,7 +56,7 @@ We'll be bringing:
 
 For a visual representation of our setup, check out the equipment diagram below:
 
-![Equipment Diagram](link/to/diagram/image)
+![Equipment Diagram](https://github.com/Peaceshaker/fleischwolf.io/blob/main/fleischwolfsesh.png)
 
 ## Connect with Us 🔗
 
