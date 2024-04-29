@@ -4,7 +4,7 @@
 
 ## About Us 🧙‍♂️🤡🤠
 
-Fleischwølf is an independent band embarking on a musical journey to create our first album this summer. We are an upcoming swiss Stoner Rock Band influenced by likes of Sleep, The Sword, Elder, Electric Wizard, Truckfighters and more.
+Fleischwølf is an independent band embarking on a musical journey to make our first record, all by ourselves. We are an upcoming swiss Stoner Rock Band influenced by likes of Sleep, The Sword, Elder, Electric Wizard, Truckfighters and more.
 
 ## Our Project 💿
 
