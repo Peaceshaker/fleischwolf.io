@@ -2,16 +2,11 @@
 
 ## Equipment Diagram 📋
 
-For a visual representation of our setup, check out the equipment diagram below:
+For a visual representation of setup:
 
 ![Equipment Diagram](https://github.com/Peaceshaker/fleischwolf.io/blob/main/fleischwolfsesh.png)
 
-🎸 Welcome to the official... uh... pack list for Fleischwølf, i guess! 💼
-
 ## Equipment 🎸
-
-We'll be bringing:
-
 - 1x Macbook
 - 1x HP Monitor
 - 1x Yamaha Monitore
@@ -52,15 +47,9 @@ We'll be bringing:
 
 ## About Us 🧙‍♂️🤡🤠
 
-Fleischwølf is an independent band embarking on a musical journey to make our first record, all by ourselves. We are an upcoming swiss Stoner Rock Band influenced by likes of Sleep, The Sword, Elder, Electric Wizard, Truckfighters and more.
-
 ## Our Project 💿
 
-This summer, we are taking on the exciting challenge of recording a short album entirely by ourselves. All Song are written by Fleischwølf. Stay tuned...
-
 ## Connect with Us 🔗
-
-Stay updated with our latest news and releases by following us on [tiktok](tiktok link, bro). Feel free to reach out!
 
 ---
 
