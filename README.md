@@ -4,7 +4,7 @@
 
 For a visual representation of setup:
 
-![Equipment Diagram](https://github.com/Peaceshaker/fleischwolf.io/blob/main/fleischwolfsesh.png)
+![Equipment Diagram](https://github.com/Peaceshaker/fleischwolf.io/blob/main/fleischwolfsesh.drawio(3).jpg)
 
 ## Equipment 🎸
 - 1x Macbook
